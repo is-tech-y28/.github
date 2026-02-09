@@ -11,7 +11,7 @@ ___
 https://xrem.github.io/tech/index.html
 ___
 ## Лекции Бутенко О.Р.
-- []()
+- [Лекция 1. Введение](lectures/1-introduction.pptx)
 ___
 ## Лабораторные
 - [Лабораторная 1](labs/lab-1.md)
