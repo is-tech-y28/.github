@@ -11,7 +11,8 @@ ___
 https://xrem.github.io/tech/index.html
 ___
 ## Лекции Бутенко О.Р.
-- [Лекция 1. Введение](lectures/1-introduction.pptx)
+- [Лекция 1. Введение](lectures/1-introduction.pdf)
+- [Лекция 2. Системы сборки](lectures/2-build-systems.pdf)
 ___
 ## Лабораторные
 - [Лабораторная 1](labs/lab-1.md)
