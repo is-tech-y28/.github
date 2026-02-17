@@ -13,6 +13,7 @@ ___
 ## Лекции Бутенко О.Р.
 - [Лекция 1. Введение](lectures/1-introduction.pdf)
 - [Лекция 2. Системы сборки](lectures/2-build-systems.pdf)
+- [Лекция 3. Spring](lectures/3-spring.pdf)
 ___
 ## Лабораторные
 - [Лабораторная 1](labs/lab-1.md)
