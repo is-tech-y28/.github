@@ -16,6 +16,7 @@ ___
 - [Лекция 3. Spring](lectures/3-spring.pdf)
 - [Лекция 4. Spring AOP](lectures/4-spring-aop.pdf)
 - [Лекция 5. Spring Security](lectures/5-spring-security.pdf)
+- [Лекция 6. Брокеры сообщений](lectures/6-message-brokers.pdf)
 ___
 ## Лабораторные
 - [Лабораторная 1](labs/lab-1.md)
