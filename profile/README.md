@@ -17,7 +17,7 @@ ___
 - [Лекция 4. Spring AOP](lectures/4-spring-aop.pdf)
 - [Лекция 5. Spring Security](lectures/5-spring-security.pdf)
 - [Лекция 6. Брокеры сообщений](lectures/6-message-brokers.pdf)
-- [Лекция 7 - Память и сборщик мусора](lectures/7-memory-and-gc.pdf)
+- [Лекция 7. Память и сборщик мусора](lectures/7-memory-and-gc.pdf)
 ___
 ## Лабораторные
 - [Лабораторная 1](labs/lab-1.md)
